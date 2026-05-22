@@ -1,0 +1,18 @@
+# Version Control
+.git/
+.gitignore
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env
+
+# Local Logs
+logs/
